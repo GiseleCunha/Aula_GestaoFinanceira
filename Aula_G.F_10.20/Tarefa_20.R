@@ -24,7 +24,10 @@ receital<-receitab-icms
 custos<-cv*demanda+cf
 lair<-receital-custos-deprec
 irpj<-lair*ir
+irpj[irpj<0]<-0
+irpj
 resultado<-lair-irpj
 fc<-resultado+deprec+residual
 tempo<-c(1,2,3,4,5)
 NPV(invest,fc,tempo,wacc)
+
