@@ -2,7 +2,7 @@
 
 #### Disciplina  Gestão Financeira do curso de Tecnologia em Gestão da Tecnologia da Informação
 - dia 20 de Outubro
--Linguagem utilizada: R.
+- Linguagem utilizada: R.
 
 ##### R Studio Cloud
 
