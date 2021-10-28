@@ -7,5 +7,5 @@ Linguagem utilizada: R.
 ##### R Studio Cloud
 
 - dia 27 de Outubro
-- Linguagem utilizada: python
+- Jupyter Notebook
 #### Colaboratory
