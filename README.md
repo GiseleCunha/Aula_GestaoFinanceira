@@ -8,6 +8,11 @@
 
 - dia 27 de Outubro
 - Jupyter Notebook
-#### Colaboratory
-
+##### Colaboratory
+<hr>
 *Atulização para o codigo realizar correção em caso de irpj negativo
+ <hr>
+- dia 03 de novembro
+- Jupyter Notebook
+
+##### Colaboratory
